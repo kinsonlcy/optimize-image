@@ -1,0 +1,15 @@
+{
+  "name": "optimize-image",
+  "version": "1.0.0",
+  "description": "Image optimization and conversion tool",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.33.2"
+  }
+}
